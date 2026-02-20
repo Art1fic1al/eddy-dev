@@ -23,6 +23,15 @@ main {
   margin: auto;
 }
 
+.card img {
+	max-width: 700px;
+	width: 100%;
+	height: auto;
+	display: block;
+	margin-top: 12px;
+	border-radius: 6px;
+}
+
 header h1 {
   margin: 0;
   font-size: 2.2rem;
